@@ -1,6 +1,6 @@
 [submodule "pico-fido"]
 	path = pico-fido
-	url = https://github.com/m-meltner/pico-fido.git
+	url = https://github.com/m-meltner/pico-keys-sdk.git
 	branch = main
 [submodule "pico-openpgp"]
 	path = pico-openpgp
